@@ -1,3 +1,9 @@
 # all output files
 *.csv
 *.pdf
+
+# graphs (because there's a lot)
+graphs/
+
+# project presentation
+project_presentation.odp
